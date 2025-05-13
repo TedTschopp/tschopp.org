@@ -9,9 +9,9 @@ description: "Tschopp.org is the official site of the Tschopp organization—sha
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Theodore Joseph Tschopp
   pic: 1
-  position: Lead Designer
+  position: Founder & Storyteller-in-Residence
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Louellen Marie Tschopp
   pic: 2
-  position: Lead Marketer
+  position: Chief Financial Steward
   social:
     - title: twitter
       url: #
@@ -31,9 +31,30 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Pieter William Conijn Tschopp
   pic: 3
-  position: Lead Developer
+  position: Engineer, Mobility & Machines
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Hannah Tschopp
+  pic: 3
+  position: Director of Operations & Optimism
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+- name: Helena Tschopp
+  pic: 3
+  position: Steward of Smiles & Paws
   social:
     - title: twitter
       url: #
