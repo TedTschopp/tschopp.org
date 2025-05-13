@@ -13,21 +13,19 @@ people:
   pic: 1
   position: Founder & Storyteller-in-Residence
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: Mastodon
+      url: https://twit.social/@TedT
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/tedtschopp
+    - title: Website
+      url: https://www.tedt.org/
 
 - name: Louellen Marie Tschopp
   pic: 2
   position: Chief Financial Steward
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/louellen.tschopp/
     - title: linkedin
       url: #
 
@@ -35,33 +33,19 @@ people:
   pic: 3
   position: Engineer, Mobility & Machines
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: Website
+      url: https://pieter.tschopp.org/
 
 - name: Hannah Tschopp
   pic: 3
   position: Director of Operations & Optimism
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
+      
 - name: Helena Tschopp
   pic: 3
   position: Steward of Smiles & Paws
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
