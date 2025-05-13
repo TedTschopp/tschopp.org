@@ -13,9 +13,9 @@ people:
   pic: 1
   position: Founder & Storyteller-in-Residence
   social:
-    - title: Mastodon
+    - title: brands fa-mastodon
       url: https://twit.social/@TedT
-    - title: LinkedIn
+    - title: brands fa-linkedin-in
       url: https://www.linkedin.com/in/tedtschopp
     - title: Website
       url: https://www.tedt.org/
