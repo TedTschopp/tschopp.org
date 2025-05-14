@@ -10,7 +10,7 @@ description: "Tschopp.org is the official site of the Tschopp organization—sha
 # Team names, titles and social links
 people:
 - name: Theodore Joseph Tschopp
-  pic: 2
+  pic: Adult-Ted
   position: Founder & Storyteller-in-Residence
   social:
     - title: brands fa-mastodon
@@ -21,7 +21,7 @@ people:
       url: https://www.tedt.org/
 
 - name: Louellen Marie Tschopp
-  pic: 1
+  pic: Adult-Louellen
   position: Chief Financial Steward
   social:
     - title: facebook
@@ -30,20 +30,20 @@ people:
       url: #
 
 - name: Pieter William Conijn Tschopp
-  pic: 3
+  pic: Adult-Pieter
   position: Engineer, Mobility & Machines
   social:
     - title: Website
       url: https://pieter.tschopp.org/
 
 - name: Hannah Tschopp
-  pic: 3
+  pic: Adult-Hannah
   position: Director of Operations & Optimism
   social:
 
       
 - name: Helena Tschopp
-  pic: 3
+  pic: Adult-Helena
   position: Steward of Smiles & Paws
   social:
 
