@@ -1,11 +1,11 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary:  00446F 
-  secondary:  E86027
-  secondary-dark: 6B270B
-  muted: B1B3B3
+  primary: "00446F"
+  secondary: "E86027"
+  secondary-dark: "6B270B"
+  muted: "B1B3B3"
 
 # Font Families
 font:
-  primary: "Cal Sans", "Titillium Web", "Optimum", "Arsenal", "Palatino", "Book Antiqua", "Georgia", serif
-  secondary: Rajdhani, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+  primary: '"Cal Sans", "Titillium Web", "Optimum", "Arsenal", "Palatino", "Book Antiqua", "Georgia", serif'
+  secondary: '"Rajdhani", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"'
