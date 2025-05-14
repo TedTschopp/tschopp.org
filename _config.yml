@@ -10,7 +10,7 @@ description: "Tschopp.org is the official site of the Tschopp organization—sha
 # Team names, titles and social links
 people:
 - name: Theodore Joseph Tschopp
-  pic: 1
+  pic: 2
   position: Founder & Storyteller-in-Residence
   social:
     - title: brands fa-mastodon
@@ -21,7 +21,7 @@ people:
       url: https://www.tedt.org/
 
 - name: Louellen Marie Tschopp
-  pic: 2
+  pic: 1
   position: Chief Financial Steward
   social:
     - title: facebook
