@@ -8,8 +8,11 @@ img: protocol.png
 thumbnail: protocol-thumbnail.png
 alt: "Carl Gustav Carus – Faust in His Study (1852)"
 project-date: "2020 – Present"
+project-date-url: 
 client: "The Tschopp Collective"
+client-url: 
 category: "Cultural Preservation"
+category-url: 
 description: "Translations and adaptations of Swiss folktales that echo the voices of our ancestors. This living archive keeps the wisdom and wit of the past alive in the hearts of our children."
 
 ---

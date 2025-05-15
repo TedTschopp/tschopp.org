@@ -1,4 +1,4 @@
- <!-- Portfolio Modals -->
+<!-- Portfolio Modals -->
  {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -18,15 +18,30 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <strong>
+                                        {% if post.client-url %}
+                                            <a href="{{ post.client-url }}">{{ post.client }}</a>
+                                        {% else %}
+                                            {{ post.client }}
+                                        {% endif %}
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong>
+                                        {% if post.project-date-url %}
+                                            <a href="{{ post.project-date-url }}">{{ post.project-date }}</a>
+                                        {% else %}
+                                            {{ post.project-date }}
+                                        {% endif %}
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong>
+                                        {% if post.category-url %}
+                                            <a href="{{ post.category-url }}">{{ post.category }}</a>
+                                        {% else %}
+                                            {{ post.category }}
+                                        {% endif %}
                                     </strong>
                                 </li>
                             </ul>
