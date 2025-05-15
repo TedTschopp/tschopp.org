@@ -17,7 +17,7 @@ people:
       url: https://twit.social/@TedT
     - title: brands fa-linkedin-in
       url: https://www.linkedin.com/in/tedtschopp
-    - title: Website
+    - title: fa-solid fa-house
       url: https://www.tedt.org/
 
 - name: Louellen Marie Tschopp
@@ -33,7 +33,7 @@ people:
   pic: Adult-Pieter
   position: Engineer, Mobility & Machines
   social:
-    - title: Website
+    - title: fa-solid fa-house
       url: https://pieter.tschopp.org/
 
 - name: Hannah Tschopp
@@ -62,8 +62,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Bradbury, CA 91010 
 
 # Build settings
 markdown: kramdown
