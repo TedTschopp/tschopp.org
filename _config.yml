@@ -17,7 +17,7 @@ people:
       url: https://twit.social/@TedT
     - title: brands fa-linkedin-in
       url: https://www.linkedin.com/in/tedtschopp
-    - title: fa-solid fa-house
+    - title: solid fa-house
       url: https://www.tedt.org/
 
 - name: Louellen Marie Tschopp
@@ -33,7 +33,7 @@ people:
   pic: Adult-Pieter
   position: Engineer, Mobility & Machines
   social:
-    - title: fa-solid fa-house
+    - title: solid fa-house
       url: https://pieter.tschopp.org/
 
 - name: Hannah Tschopp
