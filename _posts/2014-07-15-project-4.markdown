@@ -1,15 +1,15 @@
 ---
 title: Treehouse
-subtitle: Website Design
+subtitle: Fostering Growth and Connection Among Younger Generations
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
-alt: image-alt
+alt: Children's Games by Pieter Bruegel the Elder - Bruegel's work showcases children engaged in various activities, symbolizing the nurturing and development of younger generations within a community.
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: "The Tschopp Collective"
+category: "Generational Development"
+description: Treehouse focuses on engaging and nurturing the younger members of the family, providing them with opportunities for learning, collaboration, and personal development. This initiative might encompass educational programs, mentorship opportunities, or creative projects that encourage youth participation and leadership. Treehouse serves as a platform for cultivating the next generation's talents and ensuring their active involvement in the collective's future.
 
 ---

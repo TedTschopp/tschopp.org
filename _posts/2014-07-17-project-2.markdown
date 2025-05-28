@@ -1,15 +1,15 @@
 ---
 title: Escape
-subtitle: Website Design
+subtitle: Preserving and Sharing Family Narratives
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
-alt: image-alt
+alt: The Storyteller by Jules Bastien-Lepage - This painting captures the intimate moment of a storyteller captivating an audience, symbolizing the oral traditions and narratives passed down through generations, aligning with the essence of preserving family stories.
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: "The Tschopp Collective"
+category: "Cultural Preservation"
+description: Escape represents the endeavor to capture, preserve, and share the family's stories, traditions, and experiences. This project could involve creating digital archives, publishing memoirs, or developing multimedia presentations that chronicle the family's journey through generations. By doing so, the collective ensures that its rich history remains accessible and engaging for current and future members, fostering a strong sense of identity and continuity.
 
 ---

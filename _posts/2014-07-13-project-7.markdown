@@ -1,0 +1,15 @@
+---
+title: Hearth
+subtitle: Building Connections through Gatherings and Shared Experiences
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: hearth.png
+thumbnail: hearth-thumbnail.png
+alt:  The Potato Eaters by Vincent van Gogh - Van Gogh’s evocative depiction of a family sharing a humble meal highlights the authenticity, togetherness, and profound emotional bonds nurtured by shared experiences and gatherings within the collective.
+project-date: April 2014
+client: "The Tschopp Collective"
+category: "Cultural Preservation"
+description: The Hearth initiative centers around regularly organizing meaningful gatherings, reunions, and collaborative activities designed to strengthen interpersonal bonds within the collective. It emphasizes fostering trust, open communication, and emotional intimacy through shared experiences, traditions, and rituals. Hearth serves as the emotional core of the collective, ensuring relationships remain vibrant and supportive across generations.
+
+---

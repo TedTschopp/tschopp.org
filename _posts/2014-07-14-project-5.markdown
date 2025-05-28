@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Framework
+subtitle: Establishing Guiding Principles and Structures
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
+img: framework.png
+thumbnail: framework-thumbnail.png
+alt: Composition VIII by Wassily Kandinsky - This abstract painting features a precise arrangement of geometric shapes, colors, and lines, symbolizing a structured yet creative foundation essential for guiding and sustaining organizational frameworks.
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: "The Tschopp Collective"
+category: "Governance and Sustainability"
+description: Framework entails the development of foundational principles, governance structures, and strategic plans that guide the collective's operations and decision-making processes. This project could involve drafting charters, creating succession plans, or setting up advisory boards to ensure that the family's activities align with its core values and long-term vision. By establishing a solid framework, the collective promotes stability, accountability, and purposeful growth.
 
 ---

@@ -1,0 +1,15 @@
+---
+title: Seedling
+subtitle: Stewarding and Opportunities
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: seedling.png
+thumbnail: seedling-thumbnail.png
+alt: The Money Lender and His Wife by Quentin Matsys - This artwork illustrates financial stewardship and the management of resources, aligning with the initiative's focus on prosperity.
+project-date: April 2014
+client: "The Tschopp Collective"
+category: "Financial Stewardship"
+description: The Seedling initiative ensures the responsible management, growth, and purposeful allocation of family resources and wealth. This includes activities such as financial planning, investment management, charitable giving, and educational programs on financial literacy. Seedling seeks to balance present needs with future aspirations, nurturing a legacy of sustainable prosperity and responsible stewardship.
+
+---

@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Icons
+subtitle: Creating Symbols of Identity and Unity
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
+img: icon.png
+thumbnail: icon-thumbnail.png
+alt: The Girl with a Pearl Earring by Johannes Vermeer - Vermeer’s renowned painting exemplifies the power of simplicity and the profound resonance of an iconic image, perfectly symbolizing the collective's dedication to meaningful symbols of identity and unity.
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Icon involves the design and adoption of symbols, logos, or emblems that encapsulate the family's identity, heritage, and shared values. This project could include developing a family crest, designing branded materials, or creating visual representations for various initiatives. Through Icon, the collective establishes recognizable and unifying symbols that reinforce a cohesive image and foster a sense of belonging among its members.
 
 ---

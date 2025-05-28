@@ -1,15 +1,15 @@
 ---
 title: Golden
-subtitle: Website Design
+subtitle: Celebrating Milestones and Achievements
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
-alt: image-alt
+alt: Dance at Le Moulin de la Galette by Pierre-Auguste Renoir. Renoir's depiction of a lively celebration embodies the joy and festivity associated with significant family milestones and achievements.
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: "The Tschopp Collective"
+category: "Legacy Recognition"
+description: Golden symbolizes the recognition and celebration of significant milestones, achievements, and contributions within the family. This initiative might include organizing commemorative events, establishing awards or honors for exemplary service, or documenting notable accomplishments in various fields. Through Golden, the collective not only honors its members but also reinforces the values and aspirations that define its legacy.
 
 ---
