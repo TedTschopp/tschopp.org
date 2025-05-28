@@ -1,6 +1,6 @@
 ---
 title: Hearth
-subtitle: Building Connections through Gatherings and Shared Experiences
+subtitle: Gatherings and Shared Experiences
 layout: default
 modal-id: 7
 date: 2014-07-15

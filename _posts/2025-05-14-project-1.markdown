@@ -1,6 +1,6 @@
 ---
 title: Protocol
-subtitle: Ensuring stories once told aloud now live as digital memory.
+subtitle: Preserving spoken stories as digital memories.
 layout: default
 modal-id: 1
 date: 2025-05-14

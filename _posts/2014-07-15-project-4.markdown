@@ -1,6 +1,6 @@
 ---
 title: Treehouse
-subtitle: Fostering Growth and Connection Among Younger Generations
+subtitle: Fostering Growth and Connection
 layout: default
 modal-id: 4
 date: 2014-07-15

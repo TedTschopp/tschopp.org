@@ -1,6 +1,6 @@
 ---
 title: Beacon
-subtitle: Empowering Collective Impact Through Service and Philanthropy
+subtitle: Empowering Service and Philanthropy
 layout: default
 modal-id: 9
 date: 2014-07-15
