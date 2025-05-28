@@ -2,7 +2,7 @@
 title: Seedling
 subtitle: Stewarding and Opportunities
 layout: default
-modal-id: 6
+modal-id: 9
 date: 2014-07-15
 img: seedling.png
 thumbnail: seedling-thumbnail.png

@@ -11,5 +11,4 @@ project-date: April 2014
 client: "The Tschopp Collective"
 category: "Social Responsibility and Philanthropy"
 description: Beacon embodies the collective's commitment to positively impacting broader communities through service, volunteering, and philanthropic efforts. This initiative coordinates community projects, charitable donations, and partnerships with mission-aligned organizations. By leading through compassionate action and social responsibility, Beacon demonstrates the collective's values in tangible, transformative ways.
-
 ---
